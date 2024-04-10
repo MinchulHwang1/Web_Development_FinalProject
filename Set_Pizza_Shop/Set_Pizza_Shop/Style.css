@@ -1,0 +1,145 @@
+
+body {
+    background-color: rgb(239, 239, 120);
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    margin: 0 auto;
+}
+
+
+
+h1 {
+    background-color: orange;
+    text-align: center;
+    color:white;
+    font-weight:bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color:rgb(56, 43, 239);
+    font-weight:bold;
+    font-style: arial;
+}
+
+h3 {
+    background-color: rgb(241, 203, 132);
+    text-align: center;
+    color:rgb(41, 205, 246);
+    font-weight:bold;
+    font-family: 'Cursive', sans-serif;
+}
+
+p {
+    font-size: 30px;
+    font-style: arial;
+    color: #8800ff;
+}
+
+table{
+    border-collapse: collapse;
+    width:100%;
+}
+table, th, td {
+    border: 1px solid rgb(56, 5, 244); 
+    font-family: 'Cursive', sans-serif;
+    font-size: 20px; 
+    font-weight: normal; 
+    color: #333;
+}
+
+.container{
+    text-align: center;
+}
+.validator{
+    font-style: italic;
+    font-size: 14px;
+    margin-top: 5px;
+    color: red;
+}
+.makeItButton{
+    text-align: center;
+    padding: 15px 30px; /* 상하 15px, 좌우 30px의 패딩 설정 */
+    font-size: 18px; /* 글꼴 크기 설정 */
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.thirdPage{
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.bodyClass{
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.loadTable{
+    border-collapse: collapse;
+    width:100%;
+}
+.loadTable th, .loadTable td{
+    border: 1px solid rgb(56, 5, 244); 
+    font-family: 'Cursive', sans-serif;
+    font-size: 20px; 
+    font-weight: normal; 
+    color: #333;
+}
+.thirdFormClass{
+    width: 100%;
+    justify-content: center;
+}
+.thirdTable{
+    border-collapse: collapse;
+    border :0;
+    width:100%;
+}
+
+.thirdTable td {
+    border: 0;
+}
+
+.image-container {
+    background-image: url('pizza_boy.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 300px; /* 이미지의 너비에 맞게 조절하세요 */
+    height: 200px; /* 이미지의 높이에 맞게 조절하세요 */
+}
+
+.h2CSS{
+    text-align: center;
+    color:rgb(26, 55, 222);
+    font-weight:bold;
+    font-style: Tahoma;
+    font-size: large;
+}
+
+.image-container {
+    background-image: url('pizza_boy.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 300px; /* 이미지의 너비에 맞게 조절하세요 */
+    height: 200px; /* 이미지의 높이에 맞게 조절하세요 */
+}
+
+.image-container3 {
+    background-image: url('Pizza.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 300px; /* 이미지의 너비에 맞게 조절하세요 */
+    height: 200px; /* 이미지의 높이에 맞게 조절하세요 */
+}

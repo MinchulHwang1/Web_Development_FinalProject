@@ -1,0 +1,7 @@
+C:\localWebSite\Set_Pizza_Shop\Set_Pizza_Shop\bin\Set_Pizza_Shop.dll.config
+C:\localWebSite\Set_Pizza_Shop\Set_Pizza_Shop\bin\Set_Pizza_Shop.dll
+C:\localWebSite\Set_Pizza_Shop\Set_Pizza_Shop\bin\Set_Pizza_Shop.pdb
+C:\localWebSite\Set_Pizza_Shop\Set_Pizza_Shop\obj\Debug\Set_Pizza_Shop.csproj.AssemblyReference.cache
+C:\localWebSite\Set_Pizza_Shop\Set_Pizza_Shop\obj\Debug\Set_Pizza_Shop.csproj.CoreCompileInputs.cache
+C:\localWebSite\Set_Pizza_Shop\Set_Pizza_Shop\obj\Debug\Set_Pizza_Shop.dll
+C:\localWebSite\Set_Pizza_Shop\Set_Pizza_Shop\obj\Debug\Set_Pizza_Shop.pdb
